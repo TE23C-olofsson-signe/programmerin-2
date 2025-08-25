@@ -2,12 +2,19 @@
 
 static void Fightsim()
 {
-
+    bool clear = false; 
     int p1Hp = 100;
     int p2Hp = 150;
 
-    string p1Name = "Micke";
+    string p1Name = Console.ReadLine();
     string p2Name = "Martin";
+
+  
+
+    while (!clear)
+    {
+
+    }
 
     Console.WriteLine($"{p1Name} vs {p2Name} - FIGHT!");
 
