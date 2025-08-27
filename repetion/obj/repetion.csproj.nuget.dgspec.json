@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj": {}
+    "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj": {
+    "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj",
+        "projectUniqueName": "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj",
         "projectName": "repetion",
-        "projectPath": "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj",
+        "projectPath": "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\repetion.csproj",
         "packagesPath": "C:\\Users\\signe.olofsson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\obj\\",
+        "outputPath": "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\repetion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
